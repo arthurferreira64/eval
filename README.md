@@ -16,18 +16,18 @@ Pour faire fonctionner le projet il faut decommenter les fonctions que l'on souh
 
 ## Liste des fonctions :
 
-. scraper pour récuperer les données
-
+scraper pour récuperer les données :
+```python
 data_from_scraping = scraping_data()
-
-###enregistrement des données du scraping dans le CSV :
-
+```
+enregistrement des données du scraping dans le CSV :
+```python
 save_in_csv(data_from_scraping)
-
-. lire les données du CSV
-
+```
+lire les données du CSV :
+```python
 data_from_csv = read_csv()
-
+```
 . Enregistrement des données du CSV dans les bases de données
 
 save_episodes_in_bdd(data_from_csv)
