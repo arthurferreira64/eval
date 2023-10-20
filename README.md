@@ -74,9 +74,9 @@ Les trois chaînes qui ont diffusé le plus d'épisodes sont :
 
 Les trois pays qui ont diffusé le plus d'épisodes sont :
 
-1.  Etats-Unis 353 épisodes
-2.         France           76 épisodes
-3.         Canada           63 épisodes
+1. Etats-Unis 353 épisodes
+2. France 76 épisodes
+3. Canada 63 épisodes
 
 ## Les 10 mots les plus présents dans les noms des séries
 
