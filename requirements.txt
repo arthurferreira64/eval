@@ -1,0 +1,9 @@
+requests
+bs4
+csv
+sqlite3
+psycopg2
+pandas
+time
+re
+collections
