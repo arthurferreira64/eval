@@ -28,40 +28,40 @@ lire les données du CSV :
 ```python
 data_from_csv = read_csv()
 ```
-. Enregistrement des données du CSV dans les bases de données
-
+Enregistrement des données du CSV dans les bases de données :
+```python
 save_episodes_in_bdd(data_from_csv)
 save_episodes_in_dist_bdd(data_from_csv)
-
-. Sélectionner les données de la table postgres pour vérifier que les données y sont présentes
-
+```
+Sélectionner les données de la table postgres pour vérifier que les données y sont présentes :
+```python
 select_episodes_from_postgres()
-
-. Obtenir un top 3 des chaînes avec le plus grand nombre d'épisodes en octobre
-
+```
+Obtenir un top 3 des chaînes avec le plus grand nombre d'épisodes en octobre :
+```python
 get_top_three_channels_october_episodes()
-
-. Obtenir un top 3 des pays avec le plus grand nombre d'épisodes en Octobre
-
+```
+Obtenir un top 3 des pays avec le plus grand nombre d'épisodes en Octobre :
+```python
 get_top_three_countries_october_episodes()
-
-. Obtenir un top 10 des mots les plus présents dans les noms des séries
-
+```
+Obtenir un top 10 des mots les plus présents dans les noms des séries :
+```python
 get_top_ten_common_words_in_series_names()
-
-. Scraper pour récupérer le temps de chaque épisode
-
+```
+Scraper pour récupérer le temps de chaque épisode :
+```python
 episodes_duree = scraping_data_time()
-
-. Enregistrement de la durée des épisodes dans les BDD
-
+```
+Enregistrement de la durée des épisodes dans les BDD :
+```python
 save_time_in_bdd(episodes_duree)
 save_time_in_dist_bdd(episodes_duree)
-
-. Trouver la chaîne avec le plus grand nombre de jours consécutifs
-
+```
+Trouver la chaîne avec le plus grand nombre de jours consécutifs :
+```python
 find_channel_with_longest_consecutive_days()
-
+```
 ## Chaînes les plus actives
 
 Les trois chaînes qui ont diffusé le plus d'épisodes sont :
