@@ -20,7 +20,7 @@ Pour faire fonctionner le projet il faut decommenter les fonctions que l'on souh
 
 data_from_scraping = scraping_data()
 
-. enregistrement des données du scraping dans le CSV
+###enregistrement des données du scraping dans le CSV :
 
 save_in_csv(data_from_scraping)
 
