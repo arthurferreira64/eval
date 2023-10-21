@@ -12,9 +12,13 @@ git clone https://github.com/arthurferreira64/eval.git
 
 Pour se projet nous avons utilisé la version 10.0 de python avec un environnement virtuel
 
-## utilisation
+## Utilisation
 
-Pour faire fonctionner le projet il faut decommenter les fonctions que l'on souhaite utiliser
+Pour faire fonctionner le projet il faut décommenter les fonctions que l'on souhaite utiliser
+
+## Colaborateur
+
+Le projet à été fait par Arthur Ferreira Macias et Tom Lebrun
 
 ## Liste des fonctions :
 
