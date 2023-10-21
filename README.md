@@ -77,22 +77,46 @@ Les trois chaînes qui ont diffusé le plus d'épisodes sont :
 ## Pays les plus actifs
 
 Les trois pays qui ont diffusé le plus d'épisodes sont :
-
-1. Etats-Unis 353 épisodes
-2. France 76 épisodes
-3. Canada 63 épisodes
+```
+1. Etats-Unis à 353 épisodes
+```
+```
+2. France à 76 épisodes
+```
+```
+3. Canada à 63 épisodes
+```
 
 ## Les 10 mots les plus présents dans les noms des séries
 
 Quels sont les 10 mots les plus présents dans les noms des séries :
-
-1.           The              66
-2.            of              31
-3.            de              24
-4.        (2023)              19
-5.         Pacto              18
-6.  Silencio 18
-7.           Les              17
-8.           the              16
-9.          (UK)              12
-    10 Everything 11
+```
+1. The appelé 66 fois
+```
+```
+2. of appelé 31 fois
+```
+```
+3. de appelé 24 fois
+```
+```
+4. (2023) appelé 19 fois
+```
+```
+5. Pacto appelé 18 fois
+```
+```
+6. Silencio 18 fois
+```
+```
+7. Les appelé 17 fois
+```
+```
+8. the appelé 16 fois
+```
+```
+9. (UK) appelé 12 fois
+```
+```
+10. Everything appelé 11 fois
+```
