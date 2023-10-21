@@ -22,11 +22,11 @@ Le projet à été fait par Arthur Ferreira Macias et Tom Lebrun
 
 ## Liste des fonctions :
 
-scraper pour récuperer les données :
+Scraper pour récuperer les données :
 ```python
 data_from_scraping = scraping_data()
 ```
-enregistrement des données du scraping dans le CSV :
+Enregistrement des données du scraping dans le CSV :
 ```python
 save_in_csv(data_from_scraping)
 ```
