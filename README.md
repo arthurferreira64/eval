@@ -65,10 +65,12 @@ find_channel_with_longest_consecutive_days()
 ## Chaînes les plus actives
 
 Les trois chaînes qui ont diffusé le plus d'épisodes sont :
-
-1.```text Netflix à 109 épisodes ```
-2.  Disney+ à 30 épisodes
-3. Prime Video à 27 épisodes
+```
+1. Netflix à 109 épisodes ```
+```
+2.  Disney+ à 30 épisodes ```
+```
+4. Prime Video à 27 épisodes ```
 
 ## Pays les plus actifs
 
