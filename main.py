@@ -308,7 +308,7 @@ def scraping_data_time():
             print("La requête a échoué avec le code", response.status_code)
     return array
 
-
+# Cette fonction ne fonctionne pas. On a essayé de faire quelque chose, mais cela ne fonctionne pas.
 def find_channel_with_longest_consecutive_days():
     episodes = select_episodes_from_postgres()
 
@@ -413,4 +413,4 @@ def get_top_three_countries_october_episodes():
 # save_time_in_dist_bdd(episodes_duree)
 
 # Trouver la chaîne avec le plus grand nombre de jours consécutifs
-find_channel_with_longest_consecutive_days()
+# find_channel_with_longest_consecutive_days()
